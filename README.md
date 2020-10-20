@@ -1,5 +1,7 @@
 # Putnik Font
 
+![Font Preview](preview.png)
+
 Putnik is rough condensed cyrillic display font. It is primarily inspired by runic script, early cyrillic script and wooden pagan inscriptions.
 This font is non-professional, though.
 
