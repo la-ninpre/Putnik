@@ -13,7 +13,7 @@
    height="1000"
    viewBox="0 0 1000 1000"
    sodipodi:docname="y.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="C:\Users\leobr\Documents\putnik.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -195,17 +195,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1048"
      id="namedview835"
      showgrid="false"
      inkscape:pagecheckerboard="false"
      inkscape:zoom="0.52050991"
      inkscape:cx="332.89275"
      inkscape:cy="519.77834"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6212"
+     inkscape:current-layer="g5746"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
@@ -277,146 +277,6 @@
      orientation="0,1"
      position="0,0" />
   <g
-     id="g2932"
-     style="display:inline"
-     inkscape:label="GlyphLayer-А"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3019"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Б"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3107"
-     style="display:inline"
-     inkscape:label="GlyphLayer-В"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3196"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Г"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3286"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Д"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3377"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Е"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3469"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ё"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3562"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ж"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3656"
-     style="display:inline"
-     inkscape:label="GlyphLayer-З"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3751"
-     style="display:inline"
-     inkscape:label="GlyphLayer-И"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3847"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Й"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3944"
-     style="display:inline"
-     inkscape:label="GlyphLayer-К"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4042"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Л"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4141"
-     style="display:inline"
-     inkscape:label="GlyphLayer-М"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4241"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Н"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4342"
-     style="display:inline"
-     inkscape:label="GlyphLayer-О"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4444"
-     style="display:inline"
-     inkscape:label="GlyphLayer-П"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4547"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Р"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4651"
-     style="display:inline"
-     inkscape:label="GlyphLayer-С"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4756"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Т"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4862"
-     style="display:inline"
-     inkscape:label="GlyphLayer-У"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4969"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ф"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5077"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Х"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5186"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ц"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5519"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ч"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5296"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ш"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5407"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Щ"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5632"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ъ"
-     inkscape:groupmode="layer" />
-  <g
      id="g5746"
      style="display:inline"
      inkscape:label="GlyphLayer-Ы"
@@ -427,26 +287,6 @@
        d="m 346.75573,207.23157 1.45854,0.93759 z m 7.35972,10.27536 -2.21102,19.60809 v 2.80185 c 4.06702,3.10112 6.87442,6.45116 0,11.2022 -23.82817,16.47742 -15.47567,36.68639 -15.47567,67.23504 0,10.37607 -1.69902,32.37582 -6.62838,30.8155 l 8.83904,100.84701 -4.41755,28.01382 c 2.85131,9.76821 3.64679,14.50725 -2.21083,22.40977 9.48273,8.01184 6.62838,21.61464 6.62838,36.414 0,28.84819 2.21083,62.74133 2.21083,92.44684 0,10.7291 -6.98266,32.10414 -11.04987,30.81549 l 13.2607,22.40977 h -6.63232 c 6.69738,41.66986 -10.74146,88.14112 26.5259,109.21008 9.88039,5.59134 18.03595,9.90978 28.60161,3.39107 16.06973,-9.91658 18.70205,-40.25987 40.12083,-45.41431 15.67171,-3.77618 40.65108,-15.88246 56.34501,-14.0363 12.86449,1.51553 29.19747,26.59775 40.40397,5.03597 9.79222,-18.86422 -9.45908,-39.67299 -8.33189,-60.98836 1.83468,-35.03896 -1.28131,-76.41224 4.33296,-110.54928 4.28833,-26.16157 18.4112,-70.28598 4.28655,-95.85922 -5.327,-9.64779 -16.88923,-4.66163 -24.2941,-9.29512 h -2.21083 c -14.87587,18.04347 -44.40683,3.72206 -61.89119,-1.81605 -5.26088,-1.66964 -20.29088,-6.81296 -17.68274,-14.99002 v -2.80185 c -41.71,-1.33059 -37.4446,-56.52243 -44.20846,-92.44666 l 6.63251,-11.20238 C 356.98682,319.05354 390.58696,240.2398 354.11545,217.50693 Z m 268.67566,10.90238 c -9.68649,0.51665 -9.69366,42.5252 -9.97213,50.7234 -2.29882,66.47003 7.58209,132.41642 4.5317,198.89773 -0.90625,19.34306 4.77398,51.5085 -4.62041,67.22949 v 2.80185 2.80203 c 20.97686,35.09792 -4.13387,111.88685 5.12774,153.77246 3.95663,17.93416 31.16745,24.07099 16.97649,47.92156 v 2.80202 h 8.84334 c 3.86882,9.7347 11.09933,-2.31351 13.26107,-2.80202 v -14.00405 h -2.21084 v 5.60369 h -2.21101 c 2.49792,-72.71974 9.882,-145.17212 9.52843,-218.50546 -0.26522,-52.9984 -5.76802,-114.01847 3.73676,-165.28003 h -2.21084 l -4.42166,5.6037 c -2.27536,-13.75495 -8.20592,-24.47545 -12.03066,-36.41937 h -1.23023 v -4.18405 c -1.27253,-4.79549 -2.13073,-9.84885 -2.21102,-15.42387 -0.35356,-23.32102 -10.98661,-35.71815 -14.45689,-56.13983 -1.19368,-6.96977 3.00399,-23.48123 -5.46177,-25.31897 -0.33296,-0.0717 -0.65552,-0.0967 -0.96806,-0.0807 z m 23.09775,96.96295 c 0.37595,1.41625 0.78902,2.80705 1.23023,4.18405 h 0.97648 l -2.20671,-8.40035 z m -296.19508,-93.86111 2.21066,2.80185 z m 296.19508,53.22544 2.20671,2.80185 z m 22.10422,103.64904 2.20654,2.80184 z m -274.09085,30.8155 v 2.80185 h 6.62838 z m 16.20323,13.072 0.74818,1.86443 z m 123.05106,31.74771 2.21083,2.80185 z M 397.51676,483.3234 c 1.57359,-0.0286 3.31832,0.26827 5.22469,0.94835 18.30206,6.51583 32.40682,38.00514 53.05197,30.17269 l -2.21066,-11.20238 c 5.92375,-3.18499 11.16206,-5.36983 17.68256,-5.51266 49.07114,-1.07003 24.20413,39.40885 22.39167,83.9499 -0.95049,23.60399 6.7187,54.97268 -4.70911,75.63539 6.63143,8.38995 3.3805,17.06036 3.31419,28.01365 -0.17741,33.5039 -36.46937,29.04604 -60.78371,43.88749 -8.06793,4.91628 -28.3579,21.7125 -37.39837,17.81858 -26.23773,-11.32298 -7.29627,-90.97951 -7.29627,-112.12966 0,-11.4323 -11.89159,-35.25742 2.69701,-39.22123 v -2.80202 h -6.63268 c 0,-10.9083 -3.46848,-34.25101 2.27857,-43.08915 13.50568,-20.79156 82.75767,28.08066 94.51719,-10.70938 3.51436,-11.53319 -13.68524,-6.52535 -17.22201,-6.3431 -20.95464,1.07289 -51.52283,-6.88447 -68.3884,-23.33679 -10.09579,-9.85369 -7.53282,-25.87359 3.48336,-26.07968 z m -4.34568,9.6433 1.45835,0.93759 z m 67.04006,27.08144 2.21066,2.80202 z m -66.30891,2.80202 6.62838,5.6037 v 2.80203 c -5.19439,-0.82362 -8.72829,-1.38292 -6.62838,-8.40573 z m 258.61482,22.40977 V 562.066 h -2.21083 z m -319.7788,4.67166 0.75229,1.86443 z m 83.26838,9.33794 2.21084,2.79647 z m 196.72363,114.85123 2.21083,2.80185 z m -161.35833,30.8155 2.21083,2.80185 z m -11.05435,5.60387 2.21083,2.80185 z m -81.78477,8.40573 2.21084,50.42342 c -9.46052,-10.58341 -16.91001,-42.91586 -2.21084,-50.42342 z m 53.05216,53.22006 2.21101,2.80185 z m -68.52389,19.6133 2.21102,2.80185 z m 59.68037,2.80185 2.21083,2.80185 z"
        inkscape:label="y" />
   </g>
-  <g
-     id="g5861"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ь"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5977"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Э"
-     inkscape:groupmode="layer" />
-  <g
-     id="g6094"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ю"
-     inkscape:groupmode="layer" />
-  <g
-     id="g6212"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Я"
-     inkscape:groupmode="layer" />
   <sodipodi:guide
      id="guide8506"
      inkscape:label="baseline"

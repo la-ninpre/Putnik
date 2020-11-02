@@ -13,7 +13,7 @@
    height="1000"
    viewBox="0 0 1000 1000"
    sodipodi:docname="je.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="C:\Users\leobr\Documents\putnik.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -195,17 +195,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1048"
      id="namedview835"
      showgrid="false"
      inkscape:pagecheckerboard="false"
      inkscape:zoom="0.52050991"
      inkscape:cx="332.89275"
      inkscape:cy="519.77834"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6212"
+     inkscape:current-layer="g3377"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
@@ -277,31 +277,6 @@
      orientation="0,1"
      position="0,0" />
   <g
-     id="g2932"
-     style="display:inline"
-     inkscape:label="GlyphLayer-А"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3019"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Б"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3107"
-     style="display:inline"
-     inkscape:label="GlyphLayer-В"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3196"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Г"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3286"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Д"
-     inkscape:groupmode="layer" />
-  <g
      id="g3377"
      style="display:inline"
      inkscape:label="GlyphLayer-Е"
@@ -313,141 +288,6 @@
        id="path2612"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccc" />
   </g>
-  <g
-     id="g3469"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ё"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3562"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ж"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3656"
-     style="display:inline"
-     inkscape:label="GlyphLayer-З"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3751"
-     style="display:inline"
-     inkscape:label="GlyphLayer-И"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3847"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Й"
-     inkscape:groupmode="layer" />
-  <g
-     id="g3944"
-     style="display:inline"
-     inkscape:label="GlyphLayer-К"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4042"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Л"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4141"
-     style="display:inline"
-     inkscape:label="GlyphLayer-М"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4241"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Н"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4342"
-     style="display:inline"
-     inkscape:label="GlyphLayer-О"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4444"
-     style="display:inline"
-     inkscape:label="GlyphLayer-П"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4547"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Р"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4651"
-     style="display:inline"
-     inkscape:label="GlyphLayer-С"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4756"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Т"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4862"
-     style="display:inline"
-     inkscape:label="GlyphLayer-У"
-     inkscape:groupmode="layer" />
-  <g
-     id="g4969"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ф"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5077"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Х"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5186"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ц"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5519"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ч"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5296"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ш"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5407"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Щ"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5632"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ъ"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5746"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ы"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5861"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ь"
-     inkscape:groupmode="layer" />
-  <g
-     id="g5977"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Э"
-     inkscape:groupmode="layer" />
-  <g
-     id="g6094"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Ю"
-     inkscape:groupmode="layer" />
-  <g
-     id="g6212"
-     style="display:inline"
-     inkscape:label="GlyphLayer-Я"
-     inkscape:groupmode="layer" />
   <sodipodi:guide
      id="guide8506"
      inkscape:label="baseline"
