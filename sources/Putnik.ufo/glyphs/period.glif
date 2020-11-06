@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="169"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="53.6787" y="6.03027" type="line"/>
+      <point x="44.8721" y="16.5312"/>
+      <point x="41.6006" y="22.4443"/>
+      <point x="41.5908" y="36.249" type="curve"/>
+      <point x="47.6338" y="34.2354" type="line"/>
+      <point x="51.4414" y="48.6914"/>
+      <point x="61.1895" y="60.583"/>
+      <point x="71.8096" y="70.4971" type="curve"/>
+      <point x="88.1426" y="66.5049"/>
+      <point x="91.8213" y="55.5547"/>
+      <point x="89.9414" y="40.2783" type="curve"/>
+      <point x="118.975" y="38.0625"/>
+      <point x="105.939" y="16.2666"/>
+      <point x="98" y="2" type="curve"/>
+      <point x="83.8975" y="-10.0879" type="line"/>
+      <point x="77.8535" y="-6.05762" type="line"/>
+      <point x="75.8389" y="-10.0879" type="line"/>
+      <point x="73.8242" y="-10.0879" type="line"/>
+      <point x="59.7217" y="10.0596" type="line"/>
+      <point x="55.6934" y="6.03027" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-10</integer>
+            <key>width</key>
+            <integer>81</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

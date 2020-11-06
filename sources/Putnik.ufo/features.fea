@@ -1,0 +1,61 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem latn dflt;
+
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup1 {
+  lookupflag 0;
+    pos \uni0422 \uni0410 -77;
+    pos \uni0422 \uni0430 -77;
+    pos \uni0442 \uni0410 -77;
+    pos \uni0442 \uni0430 -77;
+    pos \uni0414 \uni0422 -29;
+    pos \uni0414 \uni0442 -29;
+    pos \uni0434 \uni0422 -29;
+    pos \uni0434 \uni0442 -29;
+    pos \uni0422 \uni0414 -87;
+    pos \uni0422 \uni0434 -87;
+    pos \uni0442 \uni0414 -87;
+    pos \uni0442 \uni0434 -87;
+    pos \uni0422 \uni041E -70;
+    pos \uni0422 \uni043E -70;
+    pos \uni0442 \uni041E -70;
+    pos \uni0442 \uni043E -70;
+} kernHorizontalKerninglookup1;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup1;
+
+ script cyrl;
+     language dflt ;
+      lookup kernHorizontalKerninglookup1;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninglookup1;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\uni0410 \uni0411 \uni0412 \uni0413 \uni0414 \uni0415 \uni041A 
+	\uni0423 \space \uni0416 \uni0417 \uni0418 \uni041E \uni043B \uni041B \uni0419 
+	\uni042D \uni0421 \uni041D \uni041C \uni0420 \uni042C \uni0437 \uni042E \uni0422 
+	\uni042B \uni042F \uni041F \uni043E \uni0424 \uni0425 \uni0426 \uni0427 \uni0428 
+	\uni0429 \uni042A \uni0401 \uni0430 \uni0431 \uni0432 \uni0433 \uni0434 \uni0435 
+	\uni0436 \uni0438 \uni0439 \uni043A \uni043C \uni043D \uni043F \uni0440 \uni0441 
+	\uni0442 \uni0443 \uni0444 \uni0445 \uni0446 \uni0447 \uni0448 \uni0449 \uni044A 
+	\uni044B \uni044C \uni044D \uni044E \uni044F \uni0451 \exclam \quotedbl 
+	\parenleft \parenright \asterisk \comma \period \hyphen \colon \slash \backslash 
+	\question \equal \semicolon \zero \one \two \nine \three \four \five \six \seven 
+	\eight ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
