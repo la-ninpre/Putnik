@@ -13,6 +13,38 @@ Font is made with Inkscape and FontForge.
 
 Currently there's not too much glyphs. There is cyrillic (all caps), digits and incomplete set of punctuation.
 
+## Compilation
+
+### Prerequisites
+
+You need python, pip and fontmake.
+
+```terminal
+$ python -m pip install fontmake
+```
+
+### Building
+
+To build both otf and ttf versions, just run
+
+```terminal
+$ make
+```
+
+If you want only ttf or otf, run 
+
+```terminal
+$ make otf
+```
+
+or
+
+```terminal
+$ make ttf
+```
+
+respectively.
+
 ## Todo's
 
 - all punctuation
