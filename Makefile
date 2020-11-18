@@ -1,7 +1,7 @@
 FONT_NAME=Putnik
 FONT_VERSION=$(shell git describe --abbrev=4)
 RELEASE=$(FONT_NAME)-$(FONT_VERSION)
-PYTHON=/usr/bin/python
+PYTHON=/usr/bin/python3
 VENV_BIN=venv/bin
 FONTMAKE=$(VENV_BIN)/fontmake
 OUT_DIR=fonts
@@ -32,6 +32,6 @@ release-zip: ttf otf
 	zip -j $(RELEASE).zip $(OTF) $(TTF) LICENSE
 
 clean:
-	-rm $(TTF) $(OTF) $(RELEASE).*
+	-rm $(TTF) $(OTF) *.zip *.tar.gz
 
 .PHONY: all release venv clean
