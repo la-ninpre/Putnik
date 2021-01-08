@@ -9,7 +9,7 @@ fontMath>=0.6.0
 fonttools>=3.32.0
 fs==2.4.11
 glyphsLib>=5.2.0
-lxml==4.6.1
+lxml==4.6.2
 pyclipper==1.2.0
 pytz==2020.4
 six==1.15.0
